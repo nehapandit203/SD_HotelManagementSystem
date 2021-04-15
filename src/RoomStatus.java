@@ -1,0 +1,3 @@
+public enum RoomStatus {
+    AVAILABLE,OCCUPIED,SERVICE_IN_PROGRESS;
+}
